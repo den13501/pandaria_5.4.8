@@ -7,6 +7,9 @@ Compiled exe files: https://mega.nz/file/0dxU1b4I#axVg6aXsNfgQeKcglV_RLHOPV4gXB_
 
 Geodata: https://mega.nz/file/EAZUmZiD#PxdHN7jcEKCA8qaIBTIWLWLGZcT5PdsKfIgkygTZgTs
 
+Database: https://mega.nz/file/lQ5HBRyJ#D0kQe9E7tmMrlvC2hWFiNkamIhKqcrS1ttzfl1YRu1k
+
+`db account: root password: 123456`
 ## Requirements
 + Platform: Linux, Windows or Mac
 + Processor with SSE2 support
